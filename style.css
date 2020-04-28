@@ -1,0 +1,42 @@
+.vid{
+    padding: 30px;
+}
+.view{
+    width: 400px;
+    height: 200px;
+    padding-left: 30px;
+}
+.work h1{
+    font-size: 25px;
+    padding-top: 30px;
+}
+.ton{
+    height: 350px;
+    width: 100%;
+}
+.hub{
+    padding: 0;
+}
+.card{
+    padding:0 0 0 15px;
+}
+.tab{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 1100px;
+    height: 450px;
+    padding: 0;
+}
+.info{
+    width: 190px;
+    height: 50px;
+    padding-left: 30px;
+}
+.info h1{
+    font-size: 20px;
+    margin: 5px 0;
+}
+.info i{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
